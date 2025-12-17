@@ -13,7 +13,7 @@ import os
 st.set_page_config(page_title="ClimateGuardian AI", page_icon="🌿", layout="wide")
 
 # Configure the API key
-genai.configure(api_key="AIzaSyD6DzP-rAcpOrGT9Y6I96nzL2j5-zgG324")
+genai.configure(api_key="AIzaSyDWOGRfinGVSmCmPV82dp-ky4z4YmhYuSw")
 
 # === Background Music ==
 
@@ -300,3 +300,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
